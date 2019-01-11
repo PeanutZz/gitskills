@@ -1,3 +1,3 @@
 # gitskills
 测试
-create a new branch is quick.
+create a new branch is quick sdncsdncs.
